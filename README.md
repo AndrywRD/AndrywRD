@@ -64,7 +64,7 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. A
 
 ##  Projetos em Destaque
 
-###  [Mercante João Paulo - Bot RPG para Discord](https://github.com/AndrywRD/Discord-BOT)
+###  [Mercante João Paulo - Bot RPG para Discord](https://github.com/AndrywRD/Mercante-Joao-Paulo)
 Bot completo para Discord com sistema de RPG, gacha de cartas, economia virtual e batalhas automatizadas.
 - **Tech:** Python, discord.py, SQLite, Arquitetura Modular
 - **Status:** Beta (Em uso ativo)
