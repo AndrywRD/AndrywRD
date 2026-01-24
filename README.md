@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Olá, eu sou Andryw Ruhan!
+#  Olá, eu sou Andryw Ruhan!
 
 ### Desenvolvedor Python | Backend & Automação | Estudante de ADS (PUCPR)
 
@@ -12,19 +12,19 @@
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. Atualmente focado em **desenvolvimento backend com Python**, aplicando conceitos de **POO**, **arquitetura de software** e **boas práticas de código**.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **PUCPR**
-- 💼 Desenvolvendo sistema CRM para marca própria (**Súbita Studio**)
-- 🤖 Criador do bot de RPG **Mercante João Paulo** para Discord
-- 🌱 Sempre aprendendo sobre arquitetura limpa, design patterns e novas tecnologias
-- 🎯 Buscando oportunidades de **estágio em desenvolvimento de software**
+-  Estudante de Análise e Desenvolvimento de Sistemas na **PUCPR**
+-  Desenvolvendo sistema CRM para marca própria (**Súbita Studio**)
+-  Criador do bot de RPG **Mercante João Paulo** para Discord
+-  Sempre aprendendo sobre arquitetura limpa, design patterns e novas tecnologias
+-  Buscando oportunidades de **estágio em desenvolvimento de software**
 
 ---
 
-## 🛠️ Stack Técnica
+##  Stack Técnica
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. A
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   
@@ -62,41 +62,41 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. A
 
 ---
 
-## 💼 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🎮 [Mercante João Paulo - Bot RPG para Discord](https://github.com/AndrywRD/Discord-BOT)
+###  [Mercante João Paulo - Bot RPG para Discord](https://github.com/AndrywRD/Discord-BOT)
 Bot completo para Discord com sistema de RPG, gacha de cartas, economia virtual e batalhas automatizadas.
 - **Tech:** Python, discord.py, SQLite, Arquitetura Modular
 - **Status:** Beta (Em uso ativo)
 
-### 💰 [Sistema de Gerenciamento de Gastos](https://github.com/AndrywRD/CRUD-PROJECT-CADASTRO-GASTOS)
+###  [Sistema de Gerenciamento de Gastos](https://github.com/AndrywRD/CRUD-PROJECT-CADASTRO-GASTOS)
 CRUD completo desenvolvido em Python com banco de dados MySQL para controle financeiro.
 - **Tech:** Python, MySQL, CRUD Operations
 - **Status:** Concluído
 
-### 🎨 Súbita Studio - CRM Interno
+###  Súbita Studio - CRM Interno
 Sistema de gestão de clientes para marca própria (repositório privado).
 - **Tech:** Python, Django, POO, Arquitetura em Camadas
 - **Status:** Em desenvolvimento
 
-### 📚 [Exercícios HTML & CSS](https://github.com/AndrywRD/Exercicios-e-Desafios-em-HTML-e-CSS)
+###  [Exercícios HTML & CSS](https://github.com/AndrywRD/Exercicios-e-Desafios-em-HTML-e-CSS)
 Repositório com exercícios e desafios do curso de HTML e CSS.
 - **Tech:** HTML5, CSS3
 - **Status:** Atualização contínua
 
 ---
 
-## 🎯 Objetivos Atuais
+##  Objetivos Atuais
 
-- 🔍 Buscar oportunidades de **estágio em desenvolvimento backend**
-- 📖 Aprofundar conhecimentos em **Django** e **FastAPI**
-- 🏗️ Estudar **arquitetura de microsserviços**
-- 🧪 Aprender **testes automatizados** (pytest, unittest)
-- 🐳 Explorar **Docker** e **CI/CD**
+-  Buscar oportunidades de **estágio em desenvolvimento backend**
+-  Aprofundar conhecimentos em **Django** e **FastAPI**
+-  Estudar **arquitetura de microsserviços**
+-  Aprender **testes automatizados** (pytest, unittest)
+-  Explorar **Docker** e **CI/CD**
 
 ---
 
-## 📫 Como Me Encontrar
+##  Como Me Encontrar
 
 <div align="center">
 
@@ -110,18 +110,9 @@ Repositório com exercícios e desafios do curso de HTML e CSS.
 ---
 
 <div align="center">
-  
-### 💡 "Código limpo não é escrito seguindo regras. Você não se torna um programador de software ao aprender uma lista de heurísticas. O profissionalismo e a maestria vêm dos valores e disciplina de praticá-los."
-*— Robert C. Martin*
-
-</div>
-
----
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AndrywRD&color=58A6FF&style=flat-square&label=Visualizações+do+Perfil)
 
-**⭐ Se você gostou de algum dos meus projetos, deixe uma estrela!**
+** Se você gostou de algum dos meus projetos, deixe uma estrela!**
 
 </div>
