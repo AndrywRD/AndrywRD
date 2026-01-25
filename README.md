@@ -5,7 +5,7 @@
 ### Desenvolvedor Python | Backend & Automação | Estudante de ADS (PUCPR)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andryw-ruhan-5abb43204/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](meu-portfolio-andryw-ruhans-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meu-portfolio-andryw-ruhans-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrywruhandavid@gmail.com)
 
 </div>
