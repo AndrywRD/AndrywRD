@@ -114,5 +114,5 @@ Repositório com exercícios e desafios do curso de HTML e CSS.
 ![Profile Views](https://komarev.com/ghpvc/?username=AndrywRD&color=58A6FF&style=flat-square&label=Visualizações+do+Perfil)
 
 ** Se você gostou de algum dos meus projetos, deixe uma estrela!**
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="andryw-ruhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/andryw-ruhan?trk=profile-badge">Andryw Ruhan</a></div>           
 </div>
